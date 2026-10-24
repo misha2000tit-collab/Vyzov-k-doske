@@ -1,0 +1,15 @@
+
+{
+  "expo": {
+    "name": "Вызов к доске",
+    "slug": "vyzov-k-doske",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.vyzovkdoske.app",
+      "versionCode": 1
+    }
+  }
+}
